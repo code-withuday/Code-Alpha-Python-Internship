@@ -12,4 +12,4 @@ while True:
         print("I'm fine")
         
     else:
-        print("sorry i don't under stand")
+        print("sorry i don't understand")
